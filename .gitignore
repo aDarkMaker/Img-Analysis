@@ -11,8 +11,6 @@
 /Trained_result/
 
 # 忽略模型训练
-annotation_tool.py
-model_training.py
 auto_annotate.py
 
 # Python相关文件
