@@ -63,7 +63,6 @@ Image-Analysis/
 - ![Python](https://img.shields.io/badge/Python-3.6%2B-blue.svg)
 - cnocr
 - hanlp
-- ![License](https://img.shields.io/github/license/aDarkmaker/Image-Analysis) (请将 `your_username` 替换为您的 GitHub 用户名)
 
 ## 开发阶段 🗓️
 
