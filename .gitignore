@@ -1,0 +1,41 @@
+# 忽略图片目录
+/img/
+/img/*
+
+# 忽略所有result目录
+**/result/
+**/result/*
+
+# 忽略特定的结果目录
+/ocr_result/
+/Trained_result/
+
+# 忽略模型训练
+annotation_tool.py
+model_training.py
+auto_annotate.py
+
+# Python相关文件
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+*.so
+
+# 环境文件
+.env
+.venv
+env/
+venv/
+ENV/
+
+# IDE相关
+.idea/
+.vscode/
+*.swp
+*.swo
+
+tips.txt
+/model/
+/model/*
+**/model/
